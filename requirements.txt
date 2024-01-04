@@ -1,0 +1,11 @@
+qdrant-client 
+sentence-transformers  
+langchain 
+transformers 
+peft==0.4.0 
+accelerate 
+bitsandbytes 
+trl 
+safetensors
+python-dotenv
+streamlit
