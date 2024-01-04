@@ -21,7 +21,7 @@
 This tool is a window into the real-world experiences of Amazon customers, empowering users to make informed decisions. Whether diving into specifics or seeking broad guidance, our chatbot equips you with nuanced insights and visual clues to navigate the product landscape with confidence.
 ### [![you tube link](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/v6-qTlTr_ZQ)
 ### Project Pipeline[Scroll Down for Visual Snippet] 
-![Pileine](pictures/pipeline.png) 
+![Pileine](pictures/pipeline.jpeg) 
 ### Project Snippet
 ![snippet](pictures/amzn1.gif)
 ![snippet](pictures/amzn2.gif)
